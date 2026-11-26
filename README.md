@@ -1,2 +1,2 @@
-# editais
-Editais oficiais — ETEC, ENEM e vestibulares
+# Editais
+Editais oficiais — ETEC, ENEM e vestibulares.
